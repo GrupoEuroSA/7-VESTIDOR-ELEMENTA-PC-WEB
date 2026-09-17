@@ -1,0 +1,102 @@
+#: locale=es
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_9FB44D1D_B0D0_674C_41E0_5B20CCB07FF3.url = https://grupoeurosa.com/ar/producto/b175cs?exhibidor=true
+PopupWebFrameBehaviour_9DE3C1D7_B0D1_9EDC_41E1_CCA90810F71E.url = https://grupoeurosa.com/ar/producto/b175cs?exhibidor=true
+PopupWebFrameBehaviour_80000083_B0D1_BD34_41D3_2BA4C77A5BB8.url = https://grupoeurosa.com/ar/producto/b175cs?exhibidor=true
+PopupWebFrameBehaviour_9FFDA43B_B0D1_E554_41CA_574393034076.url = https://grupoeurosa.com/ar/producto/b175cs?exhibidor=true
+PopupWebFrameBehaviour_82CDE770_B0D7_A3D4_41E5_67247728EF06.url = https://grupoeurosa.com/ar/producto/cl40?exhibidor=true&color=CL40G
+PopupWebFrameBehaviour_80B19791_B0D0_E354_41E2_358A68563ACE.url = https://grupoeurosa.com/ar/producto/cl40?exhibidor=true&color=CL70A
+PopupWebFrameBehaviour_80DFCE86_B0D0_653C_41C2_4312122200C9.url = https://grupoeurosa.com/ar/producto/cl40?exhibidor=true&color=CL70GD
+PopupWebFrameBehaviour_80B3ADCE_B0D0_A6CC_41E4_6CD5E38FC8C2.url = https://grupoeurosa.com/ar/producto/cl40?exhibidor=true&color=CL70T
+PopupWebFrameBehaviour_80015440_B0D1_E534_41DD_A1C2F89F244E.url = https://grupoeurosa.com/ar/producto/el-120-a?exhibidor=true
+PopupWebFrameBehaviour_9FB8FD21_B0D0_6774_41D5_BC9731D04EE0.url = https://grupoeurosa.com/ar/producto/el-120-a?exhibidor=true
+PopupWebFrameBehaviour_800B6088_B0D1_BD34_41B3_F742C778EF50.url = https://grupoeurosa.com/ar/producto/el-120-a?exhibidor=true
+PopupWebFrameBehaviour_800CA105_AF30_9F3C_41BD_1DC4EE33B74F.url = https://grupoeurosa.com/ar/producto/el-120-a?exhibidor=true
+PopupWebFrameBehaviour_80A32965_B0D0_AFFC_41E5_991F1FC8032B.url = https://grupoeurosa.com/ar/producto/fl100?exhibidor=true
+PopupWebFrameBehaviour_8000C084_B0D1_BD3C_41E5_DA255041DA80.url = https://grupoeurosa.com/ar/producto/fl100?exhibidor=true
+PopupWebFrameBehaviour_9FB56D1D_B0D0_674C_41D1_4037026C6B58.url = https://grupoeurosa.com/ar/producto/fl100?exhibidor=true
+PopupWebFrameBehaviour_9FFDC43C_B0D1_E54C_41DB_58B0A8BC7632.url = https://grupoeurosa.com/ar/producto/fl100?exhibidor=true
+PopupWebFrameBehaviour_8106EEDD_B0D1_E2CC_41D6_0B1EF1925E94.url = https://grupoeurosa.com/ar/producto/gm?exhibidor=true&color=GMA
+PopupWebFrameBehaviour_8024C2B4_B0D0_FD5C_41CE_F1DF405A188C.url = https://grupoeurosa.com/ar/producto/gm?exhibidor=true&color=GMG
+PopupWebFrameBehaviour_809C8C0B_B0D0_6534_41E4_8A0A9E6800D5.url = https://grupoeurosa.com/ar/producto/gm?exhibidor=true&color=GMGD
+PopupWebFrameBehaviour_80A17412_B0D1_A554_41CF_0FBFE612DB9D.url = https://grupoeurosa.com/ar/producto/gm?exhibidor=true&color=GMT
+PopupWebFrameBehaviour_80FE4873_B0D0_6DD4_419C_95CB9116F1F3.url = https://grupoeurosa.com/ar/producto/gs?exhibidor=true&color=GSA
+PopupWebFrameBehaviour_80B474B5_B0D0_655C_41E2_3E73DD28689D.url = https://grupoeurosa.com/ar/producto/gs?exhibidor=true&color=GSG
+PopupWebFrameBehaviour_80E37352_B0D7_A3D4_41D5_2A5D11A92344.url = https://grupoeurosa.com/ar/producto/gs?exhibidor=true&color=GSGD
+PopupWebFrameBehaviour_831428A0_B0D0_ED74_41C4_80E13A461461.url = https://grupoeurosa.com/ar/producto/gs?exhibidor=true&color=GST
+PopupWebFrameBehaviour_B217DB53_AF50_63D4_41D6_4972B4632A16.url = https://grupoeurosa.com/ar/producto/lcc?exhibidor=true
+PopupWebFrameBehaviour_9FFC943F_B0D1_E54C_419B_812475522113.url = https://grupoeurosa.com/ar/producto/lcc?exhibidor=true
+PopupWebFrameBehaviour_8006C087_B0D1_BD3C_41D2_7308A75039E4.url = https://grupoeurosa.com/ar/producto/lcc?exhibidor=true
+PopupWebFrameBehaviour_9FBA8D20_B0D0_6774_41DB_6A14D1606E4B.url = https://grupoeurosa.com/ar/producto/lcc?exhibidor=true
+PopupWebFrameBehaviour_82C9B5D5_B0D0_E6DD_41E3_5BF182E795A6.url = https://grupoeurosa.com/ar/producto/mc18?exhibidor=true&color=MC18A
+PopupWebFrameBehaviour_82D2F7F7_B0D0_62DC_41C5_23A67B837ECD.url = https://grupoeurosa.com/ar/producto/mc18?exhibidor=true&color=MC18G
+PopupWebFrameBehaviour_82BDDC59_B0D0_A5D4_41DF_26C5FABFE999.url = https://grupoeurosa.com/ar/producto/mc18?exhibidor=true&color=MC18GD
+PopupWebFrameBehaviour_84F91827_B0D0_6D7C_41AD_1C584427FBD9.url = https://grupoeurosa.com/ar/producto/mc18?exhibidor=true&color=MC18T
+PopupWebFrameBehaviour_9FB8ED22_B0D0_6774_41D3_21F92485008D.url = https://grupoeurosa.com/ar/producto/moa18?exhibidor=true&color=MOA18A
+PopupWebFrameBehaviour_80072441_B0D1_E534_41BF_C568EB898BF1.url = https://grupoeurosa.com/ar/producto/moa18?exhibidor=true&color=MOA18G
+PopupWebFrameBehaviour_80047089_B0D1_BD34_41DD_69E7245061F4.url = https://grupoeurosa.com/ar/producto/moa18?exhibidor=true&color=MOA18GD
+PopupWebFrameBehaviour_9FB2BC2F_B0CF_A54C_41DD_DD5C536FCF86.url = https://grupoeurosa.com/ar/producto/moa18?exhibidor=true&color=MOA18T
+PopupWebFrameBehaviour_809462B3_B0D0_7D54_41CF_9296B9724DB6.url = https://grupoeurosa.com/ar/producto/mz18?exhibidor=true&color=MZ18A
+PopupWebFrameBehaviour_81412649_B0D1_E534_41E1_B4D822DCC1C7.url = https://grupoeurosa.com/ar/producto/mz18?exhibidor=true&color=MZ18G
+PopupWebFrameBehaviour_80CE2322_B0D1_A374_4190_D555D3046CC6.url = https://grupoeurosa.com/ar/producto/mz18?exhibidor=true&color=MZ18GD
+PopupWebFrameBehaviour_80CF8429_B0D0_A574_41B8_5869C394AC49.url = https://grupoeurosa.com/ar/producto/mz18?exhibidor=true&color=MZ18T
+PopupWebFrameBehaviour_804383E8_B0D0_E2F4_41E2_7997696C6D2D.url = https://grupoeurosa.com/ar/producto/ovoln?exhibidor=true
+PopupWebFrameBehaviour_808E39EB_B0D3_AEF4_41B4_243BE29A2B3D.url = https://grupoeurosa.com/ar/producto/ovoln?exhibidor=true
+PopupWebFrameBehaviour_8086E62E_B0D0_654F_41DF_2BB747C1B787.url = https://grupoeurosa.com/ar/producto/ovoln?exhibidor=true
+PopupWebFrameBehaviour_809C0652_B0D0_A5D4_41DE_7D2ADCC14A21.url = https://grupoeurosa.com/ar/producto/ovoln?exhibidor=true
+PopupWebFrameBehaviour_80072086_B0D1_BD3C_41E2_8BD9E5EB2E13.url = https://grupoeurosa.com/ar/producto/plc?exhibidor=true&color=PLCN
+PopupWebFrameBehaviour_9FB50D1F_B0D0_674C_41DD_1F8ED60D8101.url = https://grupoeurosa.com/ar/producto/plc?exhibidor=true&color=PLCN
+PopupWebFrameBehaviour_9FFC643E_B0D1_E54C_41E4_ED87D90AEDAA.url = https://grupoeurosa.com/ar/producto/plc?exhibidor=true&color=PLCN
+PopupWebFrameBehaviour_800DFEDF_B0D0_A2CD_41AF_8346FD0236C4.url = https://grupoeurosa.com/ar/producto/plc?exhibidor=true&color=PLCN
+PopupWebFrameBehaviour_80D321A5_B0D3_9F7C_41C1_F1CD31AF857A.url = https://grupoeurosa.com/ar/producto/se18?exhibidor=true&color=SE18A
+PopupWebFrameBehaviour_80E99299_B0D3_BD54_41C1_ACDDFA6A9ED5.url = https://grupoeurosa.com/ar/producto/se18?exhibidor=true&color=SE18GD
+PopupWebFrameBehaviour_813396E7_B0D0_A2FC_41DC_AE4E09B897F9.url = https://grupoeurosa.com/ar/producto/se18?exhibidor=true&color=SE18T
+PopupWebFrameBehaviour_83086B19_B0D0_6354_41E2_79028D3BF523.url = https://grupoeurosa.com/ar/producto/se18?exhibidor=true&color=SE18T
+PopupWebFrameBehaviour_80BEC7A4_B0D0_637C_41E3_1D42CFC32C2A.url = https://grupoeurosa.com/ar/producto/sierra?exhibidor=true&color=SIERRAA
+PopupWebFrameBehaviour_83150067_B0D1_9DFC_41E1_78B037A14958.url = https://grupoeurosa.com/ar/producto/sierra?exhibidor=true&color=SIERRAG
+PopupWebFrameBehaviour_80C1FDDD_B0D1_A6CC_41D5_CC41F42B07E0.url = https://grupoeurosa.com/ar/producto/sierra?exhibidor=true&color=SIERRAGD
+PopupWebFrameBehaviour_80C78FF8_B0D0_A2D4_41BA_4F0801E8F3BD.url = https://grupoeurosa.com/ar/producto/sierra?exhibidor=true&color=SIERRAT
+PopupWebFrameBehaviour_8145A437_B0DF_E55C_41D8_64694A64F8DF.url = https://grupoeurosa.com/ar/producto/sierram?exhibidor=true&color=SIERRAMA
+PopupWebFrameBehaviour_81295D1B_B0D0_A754_41D9_C53E2161969D.url = https://grupoeurosa.com/ar/producto/sierram?exhibidor=true&color=SIERRAMG
+PopupWebFrameBehaviour_80B3FA46_B0DF_AD3C_41DC_3DB1EF58D91F.url = https://grupoeurosa.com/ar/producto/sierram?exhibidor=true&color=SIERRAMGD
+PopupWebFrameBehaviour_804B2535_B0D0_675C_41D3_F7FBDDD7EAC9.url = https://grupoeurosa.com/ar/producto/sierram?exhibidor=true&color=SIERRAMT
+PopupWebFrameBehaviour_9DC8B98B_B0D0_AF34_41D9_7A7524052082.url = https://grupoeurosa.com/ar/producto/um30?exhibidor=true
+PopupWebFrameBehaviour_9FB57D1F_B0D0_674C_41DA_EEF95AB3231A.url = https://grupoeurosa.com/ar/producto/um30?exhibidor=true
+PopupWebFrameBehaviour_8000D085_B0D1_BD3C_41DB_B8B4091A6BCA.url = https://grupoeurosa.com/ar/producto/um30?exhibidor=true
+PopupWebFrameBehaviour_9FFC443E_B0D1_E54C_41DA_BA6029B39B4B.url = https://grupoeurosa.com/ar/producto/um30?exhibidor=true
+PopupWebFrameBehaviour_82BCC7AD_B0F0_634C_41AD_D639DBD13AF7.url = https://grupoeurosa.com/ar/producto/z10?exhibidor=true&color=Z10A
+PopupWebFrameBehaviour_82D9C382_B0CF_A337_41C2_25114A988ADF.url = https://grupoeurosa.com/ar/producto/z10?exhibidor=true&color=Z10GD
+PopupWebFrameBehaviour_853DADF7_B0CF_E6DC_41C2_CBEA90D684BD.url = https://grupoeurosa.com/ar/producto/z10?exhibidor=true&color=Z10T
+PopupWebFrameBehaviour_82A41EED_B0F0_A2CC_41DE_426A230CD6C7.url = https://grupoeurosa.com/ar/producto/z10?exhibidor=true&color=Z10T
+
+## Media
+
+### Título
+panorama_BBE463A1_AF70_6374_41E1_208E45E1905D.label = ANTRACITA
+panorama_BBD24467_AF77_E5FC_41E4_D88CFC9AB975.label = GIADE
+panorama_836F22C3_B0F0_7D34_41DA_84850D4A2910.label = GOLD
+panorama_BBB89506_AF70_A73C_41A9_AAADCBDE48ED.label = TERRA
+
+## Skin
+
+### Imágen
+Image_1250FECC_4FBE_8DA8_41C9_1794DDFFDBE1.url = skin/Image_1250FECC_4FBE_8DA8_41C9_1794DDFFDBE1_es.png
+Image_13B11A03_4FBF_B498_41B7_7AE25F6A4B6C.url = skin/Image_13B11A03_4FBF_B498_41B7_7AE25F6A4B6C_es.png
+Image_A4BB3873_AA8A_E2E4_41E2_CB4C09EBAC0D.url = skin/Image_A4BB3873_AA8A_E2E4_41E2_CB4C09EBAC0D_es.png
+Image_A7B72A62_AA8A_A6E7_41D5_052746F5E1F5.url = skin/Image_A7B72A62_AA8A_A6E7_41D5_052746F5E1F5_es.png
+Image_A7B93CCE_AA8B_623F_41E2_1A659DFF9142.url = skin/Image_A7B93CCE_AA8B_623F_41E2_1A659DFF9142_es.png
+Image_A7D6CA5C_AA8B_A622_41C1_2E310940DF82.url = skin/Image_A7D6CA5C_AA8B_A622_41C1_2E310940DF82_es.png
+Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42_mobile.url = skin/Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42_mobile_es.png
+Image_EFFA8317_FF5C_9786_41EA_CD2B73C2A523_mobile.url = skin/Image_EFFA8317_FF5C_9786_41EA_CD2B73C2A523_mobile_es.png
+Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C_mobile.url = skin/Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C_mobile_es.png
+Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_mobile.url = skin/Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = 6 VESTIDOR EXHIBIDOR V2
